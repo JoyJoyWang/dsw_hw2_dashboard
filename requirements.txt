@@ -7,3 +7,4 @@ scikit_learn==1.4.1.post1
 scipy==1.10.1
 gunicorn
 dash-tools
+werkzeug=2.2.2
